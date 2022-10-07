@@ -1,0 +1,886 @@
+{
+  "b2b": [
+    {
+      "ctin": "33AAACH1004N1Z1",
+      "inv": [
+        {
+          "inum": "SI0041A392082204",
+          "val": 46550.01,
+          "idt": "20-08-2022",
+          "pos": "33",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "txval": 39449.15,
+                "rt": 18.0,
+                "iamt": 0,
+                "camt": 3550.46,
+                "samt": 3550.46,
+                "csamt": 0
+              }
+            }
+          ]
+        },
+        {
+          "inum": "SI0041A392092201",
+          "val": 22033.07,
+          "idt": "23-08-2022",
+          "pos": "33",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "txval": 18672.02,
+                "rt": 18.0,
+                "iamt": 0,
+                "camt": 1680.61,
+                "samt": 1680.61,
+                "csamt": 0
+              }
+            }
+          ]
+        },
+        {
+          "inum": "SI0041A392092202",
+          "val": 9091.96,
+          "idt": "25-08-2022",
+          "pos": "33",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "txval": 7705.03,
+                "rt": 18.0,
+                "iamt": 0,
+                "camt": 693.49,
+                "samt": 693.49,
+                "csamt": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ctin": "33AAMFK2373G1ZD",
+      "inv": [
+        {
+          "inum": "TKS24526",
+          "val": 41261.97,
+          "idt": "12-08-2022",
+          "pos": "33",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "txval": 34967.77,
+                "rt": 18.0,
+                "iamt": 0,
+                "camt": 3147.1,
+                "samt": 3147.1,
+                "csamt": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ctin": "33ADMPV5685M1ZL",
+      "inv": [
+        {
+          "inum": "TKS23748",
+          "val": 5710.93,
+          "idt": "08-08-2022",
+          "pos": "33",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "txval": 4839.77,
+                "rt": 18.0,
+                "iamt": 0,
+                "camt": 435.58,
+                "samt": 435.58,
+                "csamt": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ctin": "33AMWPM1167C2Z0",
+      "inv": [
+        {
+          "inum": "TKS23937",
+          "val": 1682.25,
+          "idt": "09-08-2022",
+          "pos": "33",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "txval": 1602.14,
+                "rt": 5.0,
+                "iamt": 0,
+                "camt": 40.05,
+                "samt": 40.05,
+                "csamt": 0
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cdnr": [
+  ],
+  "b2cs": [
+    {
+      "txval": 0.0,
+      "rt": 0.0,
+      "iamt": 0,
+      "camt": 0.0,
+      "samt": 0.0,
+      "csamt": 0,
+      "sply_ty": "INTRA",
+      "typ": "OE",
+      "pos": "33"
+    },
+    {
+      "txval": 1715128.65,
+      "rt": 5.0,
+      "iamt": 0,
+      "camt": 42878.37,
+      "samt": 42878.37,
+      "csamt": 0,
+      "sply_ty": "INTRA",
+      "typ": "OE",
+      "pos": "33"
+    },
+    {
+      "txval": 303055.31,
+      "rt": 12.0,
+      "iamt": 0,
+      "camt": 18183.53,
+      "samt": 18183.53,
+      "csamt": 0,
+      "sply_ty": "INTRA",
+      "typ": "OE",
+      "pos": "33"
+    },
+    {
+      "txval": 8241769.39,
+      "rt": 18.0,
+      "iamt": 0,
+      "camt": 741759.39,
+      "samt": 741759.39,
+      "csamt": 0,
+      "sply_ty": "INTRA",
+      "typ": "OE",
+      "pos": "33"
+    }
+  ],
+  "hsn": {
+    "data": [
+      {
+        "num": 1,
+        "hsn_sc": "09019020",
+        "desc": "Tea retail",
+        "uqc": "GMS",
+        "qty": 1223,
+        "txval": 65242.19,
+        "rt": 5.0,
+        "iamt": 0,
+        "camt": 1631.04,
+        "samt": 1631.04,
+        "csamt": 0
+      },
+      {
+        "num": 2,
+        "hsn_sc": "09021020",
+        "desc": "Tea, Coffee & Spices",
+        "uqc": "GMS",
+        "qty": 56,
+        "txval": 7236.36,
+        "rt": 5.0,
+        "iamt": 0,
+        "camt": 180.91,
+        "samt": 180.91,
+        "csamt": 0
+      },
+      {
+        "num": 3,
+        "hsn_sc": "09023010",
+        "desc": "Tea retail",
+        "uqc": "GMS",
+        "qty": 74686,
+        "txval": 387483.64,
+        "rt": 0.0,
+        "iamt": 0,
+        "camt": 9687.17,
+        "samt": 9687.17,
+        "csamt": 0
+      },
+      {
+        "num": 4,
+        "hsn_sc": "09023020",
+        "desc": "Tea retail",
+        "uqc": "GMS",
+        "qty": 67994,
+        "txval": 2659370.53,
+        "rt": 5.0,
+        "iamt": 0,
+        "camt": 66484.35,
+        "samt": 66484.35,
+        "csamt": 0
+      },
+      {
+        "num": 5,
+        "hsn_sc": "11010000",
+        "desc": "Aata- put up in unit container and bearing regist",
+        "uqc": "GMS",
+        "qty": 77,
+        "txval": 4709.82,
+        "rt": 5.0,
+        "iamt": 0,
+        "camt": 117.75,
+        "samt": 117.75,
+        "csamt": 0
+      },
+      {
+        "num": 6,
+        "hsn_sc": "19011090",
+        "desc": "Amaze",
+        "uqc": "GMS",
+        "qty": 350,
+        "txval": 72936.62,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 6564.33,
+        "samt": 6564.33,
+        "csamt": 0
+      },
+      {
+        "num": 7,
+        "hsn_sc": "19019090",
+        "desc": "Pizza, Cake, Bread, Pasta & Waffles",
+        "uqc": "GMS",
+        "qty": 531025,
+        "txval": 3516453.21,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 316480.58,
+        "samt": 316480.58,
+        "csamt": 0
+      },
+      {
+        "num": 8,
+        "hsn_sc": "19023010",
+        "desc": "Soupy Noodles",
+        "uqc": "GMS",
+        "qty": 268,
+        "txval": 3951.66,
+        "rt": 12.0,
+        "iamt": 0,
+        "camt": 237.1,
+        "samt": 237.1,
+        "csamt": 0
+      },
+      {
+        "num": 9,
+        "hsn_sc": "19053100",
+        "desc": "Pizza, Cake, Bread, Pasta & Waffles",
+        "uqc": "GMS",
+        "qty": 378,
+        "txval": 4047.63,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 364.28,
+        "samt": 364.28,
+        "csamt": 0
+      },
+      {
+        "num": 10,
+        "hsn_sc": "20079990",
+        "desc": "Others",
+        "uqc": "GMS",
+        "qty": 33020,
+        "txval": 182358.15,
+        "rt": 12.0,
+        "iamt": 0,
+        "camt": 10941.52,
+        "samt": 10941.52,
+        "csamt": 0
+      },
+      {
+        "num": 11,
+        "hsn_sc": "20081100",
+        "desc": "Edible Plants - Fruits, Nuts & Juices",
+        "uqc": "GMS",
+        "qty": 183,
+        "txval": 11180.07,
+        "rt": 12.0,
+        "iamt": 0,
+        "camt": 670.82,
+        "samt": 670.82,
+        "csamt": 0
+      },
+      {
+        "num": 12,
+        "hsn_sc": "20089911",
+        "desc": "Mango",
+        "uqc": "GMS",
+        "qty": 2,
+        "txval": 220.18,
+        "rt": 12.0,
+        "iamt": 0,
+        "camt": 13.21,
+        "samt": 13.21,
+        "csamt": 0
+      },
+      {
+        "num": 13,
+        "hsn_sc": "20089913",
+        "desc": "Orange",
+        "uqc": "GMS",
+        "qty": 5,
+        "txval": 570.12,
+        "rt": 12.0,
+        "iamt": 0,
+        "camt": 34.21,
+        "samt": 34.21,
+        "csamt": 0
+      },
+      {
+        "num": 14,
+        "hsn_sc": "21011120",
+        "desc": "Instant Coffee, not flavoured",
+        "uqc": "GMS",
+        "qty": 895695,
+        "txval": 2054651.27,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 184918.33,
+        "samt": 184918.33,
+        "csamt": 0
+      },
+      {
+        "num": 15,
+        "hsn_sc": "21032000",
+        "desc": "Sauces and Preparation therefor",
+        "uqc": "GMS",
+        "qty": 10844,
+        "txval": 74935.66,
+        "rt": 12.0,
+        "iamt": 0,
+        "camt": 4496.18,
+        "samt": 4496.18,
+        "csamt": 0
+      },
+      {
+        "num": 16,
+        "hsn_sc": "21039030",
+        "desc": "Mayonnaise & salad  dressings",
+        "uqc": "GMS",
+        "qty": 145,
+        "txval": 6702.52,
+        "rt": 12.0,
+        "iamt": 0,
+        "camt": 402.15,
+        "samt": 402.15,
+        "csamt": 0
+      },
+      {
+        "num": 17,
+        "hsn_sc": "21039090",
+        "desc": "Sauces & preparation therefor - Others",
+        "uqc": "GMS",
+        "qty": 22,
+        "txval": 1101.09,
+        "rt": 12.0,
+        "iamt": 0,
+        "camt": 66.07,
+        "samt": 66.07,
+        "csamt": 0
+      },
+      {
+        "num": 18,
+        "hsn_sc": "21041010",
+        "desc": "Soups & Broths and  preparations therefore",
+        "uqc": "GMS",
+        "qty": 1555,
+        "txval": 15713.09,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 1414.17,
+        "samt": 1414.17,
+        "csamt": 0
+      },
+      {
+        "num": 19,
+        "hsn_sc": "27121090",
+        "desc": "Vaseline Petroleum Jelly [ IPGrade ]",
+        "uqc": "GMS",
+        "qty": 1363,
+        "txval": 13420.88,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 1207.88,
+        "samt": 1207.88,
+        "csamt": 0
+      },
+      {
+        "num": 20,
+        "hsn_sc": "30045090",
+        "desc": "Drugs & Pharmaceuticals",
+        "uqc": "GMS",
+        "qty": 3,
+        "txval": 301.97,
+        "rt": 12.0,
+        "iamt": 0,
+        "camt": 18.12,
+        "samt": 18.12,
+        "csamt": 0
+      },
+      {
+        "num": 21,
+        "hsn_sc": "30049011",
+        "desc": "INDU BRINGHA OIL [Ayurveda Medicine]",
+        "uqc": "GMS",
+        "qty": 15532,
+        "txval": 238784.48,
+        "rt": 12.0,
+        "iamt": 0,
+        "camt": 14327.22,
+        "samt": 14327.22,
+        "csamt": 0
+      },
+      {
+        "num": 22,
+        "hsn_sc": "30049031",
+        "desc": "Drugs & Pharmaceuticals",
+        "uqc": "GMS",
+        "qty": 539,
+        "txval": 35370.42,
+        "rt": 12.0,
+        "iamt": 0,
+        "camt": 2122.22,
+        "samt": 2122.22,
+        "csamt": 0
+      },
+      {
+        "num": 23,
+        "hsn_sc": "30049069",
+        "desc": "MEDICAMENTS (EXCLUDING GOODS OF HEADING 3002, 300",
+        "uqc": "GMS",
+        "qty": 253,
+        "txval": 14096.27,
+        "rt": 12.0,
+        "iamt": 0,
+        "camt": 845.79,
+        "samt": 845.79,
+        "csamt": 0
+      },
+      {
+        "num": 24,
+        "hsn_sc": "30049099",
+        "desc": "MEDICAMENTS (EXCLUDING GOODS OF HEADING 3002, 300",
+        "uqc": "GMS",
+        "qty": 282,
+        "txval": 16829.42,
+        "rt": 12.0,
+        "iamt": 0,
+        "camt": 1009.76,
+        "samt": 1009.76,
+        "csamt": 0
+      },
+      {
+        "num": 25,
+        "hsn_sc": "33041000",
+        "desc": "Lip make up preparation",
+        "uqc": "GMS",
+        "qty": 14,
+        "txval": 528.51,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 47.57,
+        "samt": 47.57,
+        "csamt": 0
+      },
+      {
+        "num": 26,
+        "hsn_sc": "33042000",
+        "desc": "Kajal",
+        "uqc": "GMS",
+        "qty": 18,
+        "txval": 2542.37,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 228.81,
+        "samt": 228.81,
+        "csamt": 0
+      },
+      {
+        "num": 27,
+        "hsn_sc": "33049120",
+        "desc": "Talcum powder",
+        "uqc": "GMS",
+        "qty": 23839,
+        "txval": 429968.86,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 38697.22,
+        "samt": 38697.22,
+        "csamt": 0
+      },
+      {
+        "num": 28,
+        "hsn_sc": "33049910",
+        "desc": "lakme consumable others",
+        "uqc": "GMS",
+        "qty": 14208,
+        "txval": 244442.17,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 21999.82,
+        "samt": 21999.82,
+        "csamt": 0
+      },
+      {
+        "num": 29,
+        "hsn_sc": "33049930",
+        "desc": "Body Lotion",
+        "uqc": "GMS",
+        "qty": 435,
+        "txval": 26410.59,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 2376.95,
+        "samt": 2376.95,
+        "csamt": 0
+      },
+      {
+        "num": 30,
+        "hsn_sc": "33051090",
+        "desc": "Shampoo",
+        "uqc": "GMS",
+        "qty": 998677,
+        "txval": 1020904.32,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 91881.03,
+        "samt": 91881.03,
+        "csamt": 0
+      },
+      {
+        "num": 31,
+        "hsn_sc": "33061020",
+        "desc": "Tooth Paste",
+        "uqc": "GMS",
+        "qty": 22277,
+        "txval": 619718.19,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 55774.91,
+        "samt": 55774.91,
+        "csamt": 0
+      },
+      {
+        "num": 32,
+        "hsn_sc": "33071010",
+        "desc": "ShavingCream",
+        "uqc": "GMS",
+        "qty": 42,
+        "txval": 1647.78,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 148.3,
+        "samt": 148.3,
+        "csamt": 0
+      },
+      {
+        "num": 33,
+        "hsn_sc": "33072000",
+        "desc": "Deodrants / Perfumes / After Shaving Lotion",
+        "uqc": "GMS",
+        "qty": 762,
+        "txval": 54330.54,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 4889.75,
+        "samt": 4889.75,
+        "csamt": 0
+      },
+      {
+        "num": 34,
+        "hsn_sc": "34011190",
+        "desc": "Toilet Soaps",
+        "uqc": "GMS",
+        "qty": 119709,
+        "txval": 2431951.53,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 218875.92,
+        "samt": 218875.92,
+        "csamt": 0
+      },
+      {
+        "num": 35,
+        "hsn_sc": "34011930",
+        "desc": "Detergent Bar",
+        "uqc": "GMS",
+        "qty": 116799,
+        "txval": 1787368.85,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 160863.39,
+        "samt": 160863.39,
+        "csamt": 0
+      },
+      {
+        "num": 36,
+        "hsn_sc": "34011942",
+        "desc": "Laundry Soap",
+        "uqc": "GMS",
+        "qty": 342,
+        "txval": 8008.41,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 720.76,
+        "samt": 720.76,
+        "csamt": 0
+      },
+      {
+        "num": 37,
+        "hsn_sc": "34013019",
+        "desc": "Liquired soaps with OSAA(body wash & hand wash)",
+        "uqc": "GMS",
+        "qty": 641,
+        "txval": 28276.67,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 2544.88,
+        "samt": 2544.88,
+        "csamt": 0
+      },
+      {
+        "num": 38,
+        "hsn_sc": "34013090",
+        "desc": "Face Mask",
+        "uqc": "GMS",
+        "qty": 954,
+        "txval": 44432.56,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 3998.9,
+        "samt": 3998.9,
+        "csamt": 0
+      },
+      {
+        "num": 39,
+        "hsn_sc": "34022010",
+        "desc": "Comfort Fabric Conditioner",
+        "uqc": "GMS",
+        "qty": 37350,
+        "txval": 267869.19,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 24108.21,
+        "samt": 24108.21,
+        "csamt": 0
+      },
+      {
+        "num": 40,
+        "hsn_sc": "34025000",
+        "desc": "Preparations put up for retail sale",
+        "uqc": "GMS",
+        "qty": 420884,
+        "txval": 4051848.64,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 364666.52,
+        "samt": 364666.52,
+        "csamt": 0
+      },
+      {
+        "num": 41,
+        "hsn_sc": "34054000",
+        "desc": "Vim-Scourers / bar",
+        "uqc": "GMS",
+        "qty": 212080,
+        "txval": 1185002.42,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 106650.48,
+        "samt": 106650.48,
+        "csamt": 0
+      },
+      {
+        "num": 42,
+        "hsn_sc": "38089400",
+        "desc": "Domex Dis-Infectant",
+        "uqc": "GMS",
+        "qty": 2272,
+        "txval": 40354.75,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 3631.91,
+        "samt": 3631.91,
+        "csamt": 0
+      },
+      {
+        "num": 43,
+        "hsn_sc": "39249010",
+        "desc": "Polymers, Polyethylene, Cellulose",
+        "uqc": "GMS",
+        "qty": 67,
+        "txval": 1680.86,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 151.28,
+        "samt": 151.28,
+        "csamt": 0
+      },
+      {
+        "num": 44,
+        "hsn_sc": "68053000",
+        "desc": "Natural, artificial, abrasive",
+        "uqc": "GMS",
+        "qty": 7200,
+        "txval": 41405.1,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 3726.39,
+        "samt": 3726.39,
+        "csamt": 0
+      },
+      {
+        "num": 45,
+        "hsn_sc": "69111021",
+        "desc": "Bricks, Blocks & Ceramics",
+        "uqc": "GMS",
+        "qty": 438,
+        "txval": 0.0,
+        "rt": 0.0,
+        "iamt": 0,
+        "camt": 0.0,
+        "samt": 0.0,
+        "csamt": 0
+      },
+      {
+        "num": 46,
+        "hsn_sc": "96032100",
+        "desc": "Toothbrush",
+        "uqc": "GMS",
+        "qty": 2724,
+        "txval": 80130.87,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 7211.79,
+        "samt": 7211.79,
+        "csamt": 0
+      },
+      {
+        "num": 47,
+        "hsn_sc": "998397",
+        "desc": "Sponsorship Services & Brand Promotion Services",
+        "uqc": "na",
+        "qty": 0,
+        "txval": 26377.05,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 2374.1,
+        "samt": 2374.1,
+        "csamt": 0
+      },
+      {
+        "num": 48,
+        "hsn_sc": "999799",
+        "desc": "Other services n.e.c.",
+        "uqc": "na",
+        "qty": 0,
+        "txval": 39449.15,
+        "rt": 18.0,
+        "iamt": 0,
+        "camt": 3550.46,
+        "samt": 3550.46,
+        "csamt": 0
+      }
+    ]
+  },
+  "doc_issue": {
+    "doc_det": [
+      {
+        "doc_num": 1,
+        "doc_typ": "Invoices for outward supply",
+        "docs": [
+          {
+            "num": 1,
+            "to": "TKS27946",
+            "from": "TKS22123",
+            "totnum": 5824,
+            "cancel": 37,
+            "net_issue": 5787
+          },
+          {
+            "num": 2,
+            "to": "SI0041A392082204",
+            "from": "SI0041A392082204",
+            "totnum": 1,
+            "cancel": 0,
+            "net_issue": 1
+          },
+          {
+            "num": 3,
+            "to": "SI0041A392092202",
+            "from": "SI0041A392092202",
+            "totnum": 1,
+            "cancel": 0,
+            "net_issue": 1
+          },
+          {
+            "num": 4,
+            "to": "SI0041A392092201",
+            "from": "SI0041A392092201",
+            "totnum": 1,
+            "cancel": 0,
+            "net_issue": 1
+          }
+        ]
+      },
+      {
+        "doc_num": 5,
+        "doc_typ": "Credit Note",
+        "docs": [
+          {
+            "num": 1,
+            "to": "AA024972",
+            "from": "AA024946",
+            "totnum": 27,
+            "cancel": 0,
+            "net_issue": 27
+          }
+        ]
+      }
+    ]
+  },
+  "gstin": "33AAPFD1365C1ZR",
+  "fp": "082022",
+  "version": "GST3.0.4",
+  "hash": "hash"
+}
